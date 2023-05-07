@@ -1,0 +1,34 @@
+# ignore node_modules
+node_modules
+
+# ignore build artifacts
+.next
+
+# ignore log files
+*.log
+
+# ignore development files
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
+.vscode
+.idea
+
+# ignore package manager cache directories
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+pnpm-debug.log*
+pnpm-recursive.log*
+
+# ignore other development files and directories
+.DS_Store
+.git
+.gitignore
+.eslintcache
+.npmrc
+.npmignore
+.now
+.lock

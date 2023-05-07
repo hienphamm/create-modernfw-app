@@ -1,0 +1,10 @@
+# Exclude all files
+*
+
+# Except the 'dist' folder and its contents
+!dist/
+!dist/**
+
+# Exclude the 'templates' folder outside of 'dist'
+templates/*
+!dist/templates/
