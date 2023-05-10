@@ -1,6 +1,6 @@
 # Welcome to Create-Modernfw-App
 
-This is a command-line interface (CLI) tool that generates a modern Next.js/React application with JavaScript/TypeScript, and provides additional options such as Tailwind CSS, ESLint, Docker, Lint-staged, and import aliases.
+This is a command-line interface (CLI) tool that generates a modern Next.js/React application and provides additional options such as Tailwind CSS, ESLint, Docker, Lint-staged, and CommitLint.
 
 ### Installation
 
@@ -63,7 +63,7 @@ Create Modernfw App saves you time and effort by providing a modern boilerplate 
 
 - **Quick setup**: With a single command, you can have a fully functional project up and running in minutes.
 
-- **Modern tools**: Create Modernfw App includes modern tools and libraries, such as Tailwind CSS, ESLint, Docker, Lint-staged, and Import Alias, to help you write better code and improve your development workflow.
+- **Modern tools**: Create Modernfw App includes modern tools and libraries, such as Tailwind CSS, ESLint, Docker, Lint-staged, and CommitLint, to help you write better code and improve your development workflow.
 
 - **Customizable options**: Create Modernfw App allows you to choose from various options, so you can tailor your project to your specific needs.
 

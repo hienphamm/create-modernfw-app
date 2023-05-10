@@ -2,9 +2,9 @@
 *
 
 # Except the 'dist' folder and its contents
-!dist/
-!dist/**
+!src/dist/
+!src/dist/**
 
 # Exclude the 'templates' folder outside of 'dist'
-templates/*
-!dist/templates/
+src/templates/*
+!src/dist/templates/
